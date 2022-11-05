@@ -133,7 +133,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! (p1) Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quas autem doloribus soluta, facilis pariatur! A, laudantium. Asperiores omnis unde veritatis! Vero alias natus incidunt architecto necessitatibus voluptate numquam maxime.
+              Hi! (p1) Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quas autem doloribus soluta, facilis pariatur! A, laudantium. Asperiores omnis unde veritatis! Vero alias natus incidunt architecto necessitatibus voluptate numquam maxime.
             </p>
 
             <p>

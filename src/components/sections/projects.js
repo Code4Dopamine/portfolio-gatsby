@@ -182,6 +182,7 @@ const Projects = () => {
               tech
               github
               external
+              gdrive
             }
             html
           }
@@ -213,7 +214,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { github, external, title, tech, gdrive } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -226,6 +227,11 @@ const Projects = () => {
               {github && (
                 <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
                   <Icon name="GitHub" />
+                </a>
+              )}
+              {gdrive && (
+                <a href={gdrive} aria-label="Google Drive Link" target="_blank" rel="noreferrer">
+                  <Icon name="GDrive" />
                 </a>
               )}
               {external && (
@@ -242,9 +248,16 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            <a href={external} target="_blank" rel="noreferrer">
-              {title}
-            </a>
+            {gdrive && (
+              <a href={gdrive} target="_blank" rel="noreferrer">
+                {title}
+              </a>
+            )}
+            {external && (
+              <a href={external} target="_blank" rel="noreferrer">
+                {title}
+              </a>
+            )}
           </h3>
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />

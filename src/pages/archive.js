@@ -153,7 +153,7 @@ const ArchivePage = ({ location, data }) => {
       <main>
         <header ref={revealTitle}>
           <h1 className="big-heading">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">A list of things I’ve worked on</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
@@ -164,7 +164,7 @@ const ArchivePage = ({ location, data }) => {
                 <th>Title</th>
                 <th className="hide-on-mobile">Made at</th>
                 <th className="hide-on-mobile">Built with</th>
-                <th>Link</th>
+                <th>Link(s)</th>
               </tr>
             </thead>
             <tbody>
@@ -179,6 +179,7 @@ const ArchivePage = ({ location, data }) => {
                     title,
                     tech,
                     company,
+                    gdrive,
                   } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
@@ -211,6 +212,11 @@ const ArchivePage = ({ location, data }) => {
                           {github && (
                             <a href={github} aria-label="GitHub Link">
                               <Icon name="GitHub" />
+                            </a>
+                          )}
+                          {gdrive && (
+                            <a href={gdrive} aria-label="Google Drive">
+                              <Icon name="GDrive" />
                             </a>
                           )}
                           {ios && (
@@ -257,6 +263,7 @@ export const pageQuery = graphql`
             github
             external
             company
+            gdrive
           }
           html
         }

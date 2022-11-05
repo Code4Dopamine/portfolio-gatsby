@@ -13,4 +13,4 @@ export { default as IconLogo } from './logo';
 export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
-export { default as IconGoogleDrive } from './googleDrive';
+export { default as IconGDrive } from './gdrive';

@@ -1,12 +1,10 @@
 ---
-date: '2016-11-16'
+date: '0000-11-16'
 title: 'Hidden-Project-Sample'
 github: ''
 external: ''
 tech:
-  - Node
-  - Express
-  - EJS
+  - tech
 showInProjects: false
 ---
 

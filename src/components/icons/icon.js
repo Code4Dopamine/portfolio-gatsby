@@ -15,7 +15,7 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
-  IconGoogleDrive,
+  IconGDrive,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -49,7 +49,7 @@ const Icon = ({ name }) => {
     case 'Twitter':
       return <IconTwitter />;
     case 'GDrive':
-      return <IconGoogleDrive />;
+      return <IconGDrive />;
     default:
       return <IconExternal />;
   }
