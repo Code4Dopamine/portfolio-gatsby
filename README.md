@@ -1,6 +1,6 @@
 # Portfolio Website (In Progress)
 
-Forked from [Brittany Chiang](https://brittanychiang.com/)'s [(github repo here)](https://github.com/bchiang7/v4)
+
 
 
 ## 🛠 Installation & Set Up
@@ -42,3 +42,6 @@ Forked from [Brittany Chiang](https://brittanychiang.com/)'s [(github repo here)
    ```sh
    npm run serve
    ```
+
+---
+Forked from [Brittany Chiang](https://brittanychiang.com/)'s [(github repo here)](https://github.com/bchiang7/v4)

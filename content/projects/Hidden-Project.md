@@ -1,10 +1,11 @@
 ---
-date: '0000-11-16'
-title: 'Hidden-Project-Sample'
+date: '0000-01-01'
+title: 'Project-Template-Sample'
 github: ''
 external: ''
 tech:
   - tech
+company: '(Sample)'
 showInProjects: false
 ---
 

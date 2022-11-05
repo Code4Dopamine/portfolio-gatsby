@@ -248,11 +248,6 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            {gdrive && (
-              <a href={gdrive} target="_blank" rel="noreferrer">
-                {title}
-              </a>
-            )}
             {external && (
               <a href={external} target="_blank" rel="noreferrer">
                 {title}
