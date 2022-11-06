@@ -5,7 +5,7 @@ module.exports = {
     title: 'Edward Dev',
     description:
       'Portfolio Website of Edward',
-    siteUrl: 'https://edwardwu.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://edwarddev.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '#',
   },
@@ -44,13 +44,13 @@ module.exports = {
         path: `${__dirname}/content/`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
-        path: `${__dirname}/content/posts`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `posts`,
+    //     path: `${__dirname}/content/posts`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
