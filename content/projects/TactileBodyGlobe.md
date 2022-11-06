@@ -14,7 +14,7 @@ tech:
 company: 'Keio University'
 showInProjects: true
 ---
-Master Thesis:  
+Master Thesis Title:  
 Tactile body-globe : using body as spatial globe interface for vibrotactile display of temporal data.
 
 My MS Thesis on Haptic Applications for Big Data Interpretation & Visualization.

@@ -123,7 +123,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['HTML/CSS', 'JavaScript(ES6+)', 'Express', 'Node.js', 'MongoDB', 'React', 'Cloud (AWS & Google)', 'Some Java & Python'];
+  const skills = [
+    'HTML/CSS',
+    'JavaScript(ES6+)',
+    'Express',
+    'Node.js',
+    'MongoDB',
+    'React',
+    'Cloud (AWS & Google)',
+    'Some Java & Python',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -132,17 +141,21 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hi!</p>
             <p>
-              Hi! (p1) Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam quas autem doloribus soluta, facilis pariatur! A, laudantium. Asperiores omnis unde veritatis! Vero alias natus incidunt architecto necessitatibus voluptate numquam maxime.
+              My name is Edward and I love designing and building web apps! As a developer, I am passionate about developing websites that are easy-to-use and allow users to find whatever they need quickly.
+            </p>
+            <p>
+              I also love tinkering and learning new things in tech, such as trying out <a href="https://drive.google.com/drive/folders/11W58YDApqdYQhPiVTNiehMztj0yfhd37?usp=share_link">ML Applications</a>, <a href="https://drive.google.com/drive/folders/1dzTIsofR7N725ZpPs37i80UeF3YN4G7L?usp=share_link">3D Modeling / Printing</a>, <a href="https://drive.google.com/drive/folders/1PSTvVgwpIfLu2Xmhpcvaas3-1ZUZ637e?usp=share_link">UX Design</a>, and joining Hackthons Events [<a href="https://twitter.com/johnwalicki/status/787613210769813508">1</a> , <a href="https://drive.google.com/drive/folders/1GQm1HzLq_5Y2P_AMwoPN8O5QB3VmViAT?usp=share_link">2</a>] to put my skills into practice!
+            </p>
+            
+            {/* <p>
+              (p2) 
             </p>
 
             <p>
-              (p2) Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio asperiores, officia, inventore ducimus odit ipsam possimus distinctio, obcaecati ipsum sapiente molestiae placeat nisi? Velit, quasi placeat obcaecati quam minus tenetur hic assumenda ut nesciunt, sunt ipsa voluptatum aut perspiciatis reiciendis quibusdam quia eos deleniti error voluptas delectus, incidunt mollitia amet!
-            </p>
-
-            <p>
-              (p3) Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum laudantium nostrum sequi quasi nesciunt voluptatum suscipit architecto temporibus optio dolor?
-            </p>
+              (p3) 
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
