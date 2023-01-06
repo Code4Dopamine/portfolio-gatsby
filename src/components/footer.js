@@ -108,7 +108,7 @@ const Footer = () => {
         <div className='github-stats'>
           ©2022 Edward Wu |
           <a href="https://github.com/bchiang7/v4">
-            <div>Design: Brittany Chiang</div>
+            <div>Design: bchiang7</div>
 
             {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

@@ -1,7 +1,7 @@
 ---
 date: '2022-00-01'
 title: 'Organizer'
-company: 'C4SF'
+company: 'Code For San Francisco'
 location: 'Remote'
 range: 'Oct 2022 - Present'
 url: 'https://c4sf.me'
@@ -11,5 +11,5 @@ url: 'https://c4sf.me'
 
 - Work as part of the Core-Team and helping out with organizing events
 - Help define internal tech stack necessary for project teams to collaborate
-- Working on open-source project (Project-Compass)
+- Work on open-source project (Project-Compass)
 

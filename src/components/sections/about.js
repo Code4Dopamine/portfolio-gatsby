@@ -81,6 +81,8 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
+      mix-blend-mode: multiply;
+      // filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -146,7 +148,7 @@ const About = () => {
               My name is Edward and I love designing and building web apps! As a developer, I am passionate about developing websites that are easy-to-use and allow users to find whatever they need quickly.
             </p>
             <p>
-              I also love tinkering and learning new things in tech, such as trying out <a href="https://drive.google.com/drive/folders/11W58YDApqdYQhPiVTNiehMztj0yfhd37?usp=share_link">ML Applications</a>, <a href="https://drive.google.com/drive/folders/1dzTIsofR7N725ZpPs37i80UeF3YN4G7L?usp=share_link">3D Modeling / Printing</a>, <a href="https://drive.google.com/drive/folders/1PSTvVgwpIfLu2Xmhpcvaas3-1ZUZ637e?usp=share_link">UX Design</a>, and joining Hackthons Events [<a href="https://twitter.com/johnwalicki/status/787613210769813508">1</a> , <a href="https://drive.google.com/drive/folders/1GQm1HzLq_5Y2P_AMwoPN8O5QB3VmViAT?usp=share_link">2</a>] to put my skills into practice!
+              I also love tinkering and learning new things in tech, such as trying out <a href="https://drive.google.com/drive/folders/11W58YDApqdYQhPiVTNiehMztj0yfhd37?usp=share_link">ML Applications</a>, <a href="https://drive.google.com/drive/folders/1dzTIsofR7N725ZpPs37i80UeF3YN4G7L?usp=share_link">3D Modeling / Printing</a>, <a href="https://drive.google.com/drive/folders/1PSTvVgwpIfLu2Xmhpcvaas3-1ZUZ637e?usp=share_link">UX Design</a>, <a href="https://drive.google.com/drive/folders/1coJAKEKbXKGl2pmVgXP-q-P-79J9nHzy">Tinkering with Electronics</a> or <a href="https://drive.google.com/drive/folders/1YPjAW1c5RgWxI2i-z3NRbsNChikJgMRi">building robots</a>, and attending Hackthons Events [<a href="https://twitter.com/johnwalicki/status/787613210769813508">1</a> , <a href="https://drive.google.com/drive/folders/1GQm1HzLq_5Y2P_AMwoPN8O5QB3VmViAT?usp=share_link">2</a>] to put my skills into practice!
             </p>
             
             {/* <p>

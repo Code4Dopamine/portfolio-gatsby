@@ -6,8 +6,12 @@ location: 'Beall Center of Arts and Technology, UCI'
 range: 'June 2016 - Aug 2016'
 url: 'https://beallcenter.uci.edu/beall-summer-hours'
 ---
-Expressive Robotics Summer Camp - 2016  
+Expressive Robotics Summer Camp - 2016 ([Video](https://vimeo.com/180377430))
+
 <br>
 
 - Taught students from Middle School and High School about basic programming and circuitry  
-- Used Arduino and Vex Robotic to teach students basic coding and interaction with hardware / circuitry
+- Used Arduino and Vex Robotic to teach students basic coding and interaction with hardware / circuitry  
+
+
+
