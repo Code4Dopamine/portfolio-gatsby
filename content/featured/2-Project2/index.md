@@ -1,13 +1,14 @@
 ---
 date: '2'
 title: 'Project 2'
-cover: './img-holder.jpg'
-github: '#projects'
-external: '#projects'
+cover: './App_Overview.jpg'
+github: 'https://github.com/Code4Dopamine/FS-Kanban'
 tech:
-  - React
-  - Styled Components
+  - EJS
+  - Auth
   - Express
+  - MongoDB
+  - MVC Design
 ---
 
-(To-Be-Updated)
+Created a Kanban-like Board with Login
