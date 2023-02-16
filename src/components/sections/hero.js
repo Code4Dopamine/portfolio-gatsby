@@ -81,7 +81,8 @@ const Hero = () => {
     <a
       // className="email-link"
       className="hero-link"
-      href="https://drive.google.com/drive/folders/1mcAck_AIjlUElgycj54-B1_xnRDOImnB"
+      // href="https://drive.google.com/drive/folders/1mcAck_AIjlUElgycj54-B1_xnRDOImnB"
+      href="#projects"
       target="_blank"
       rel="noreferrer">
       Check out my past works!

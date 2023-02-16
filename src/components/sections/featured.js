@@ -322,6 +322,7 @@ const Featured = () => {
               tech
               github
               external
+              gdrive
             }
             html
           }
@@ -354,7 +355,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta, gdrive } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -389,6 +390,11 @@ const Featured = () => {
                       {github && (
                         <a href={github} aria-label="GitHub Link">
                           <Icon name="GitHub" />
+                        </a>
+                      )}
+                      {gdrive && (
+                        <a href={gdrive} aria-label="Google Drive Link">
+                          <Icon name="GDrive" />
                         </a>
                       )}
                       {external && !cta && (
