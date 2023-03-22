@@ -5,9 +5,9 @@ cover: './Client-LandingPage.png'
 # github: '#'
 external: 'https://taiwandaniou.netlify.app/'
 tech:
-  - React
-  - Express
-  - Spotify API
+  - HTML
+  - CSS
+  - Javascript
   - Styled Components
 ---
 

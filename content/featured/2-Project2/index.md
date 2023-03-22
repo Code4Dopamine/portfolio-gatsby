@@ -3,6 +3,7 @@ date: '1'
 title: 'Full Stack App - Kanban Board'
 cover: './App_Overview.jpg'
 github: 'https://github.com/Code4Dopamine/FS-Kanban'
+external: 'https://distinct-bass-sarong.cyclic.app'
 tech:
   - EJS
   - Auth
