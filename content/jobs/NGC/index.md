@@ -9,5 +9,8 @@ url: 'http://www.ngccems.org/work-2020#block-7292fc2e99cf4e78c37b'
 [Pro-Bono] [New Generation Consulting](http://www.ngccems.org/work-2020#block-7292fc2e99cf4e78c37b)
 <br>
 
-- Work in virtual teams and act as consultants to help social organizations overcome business-related problems  
+- Work in virtual teams for 10 weeks as consultants to help social organizations overcome business-related problems
+- Created “Best Sales Pitch Practices” Deck w/Storyboard, Moodboard, UI/UX Design Aesthetics, etc.
+- In charge of providing Market Research and Analysis on coding schools in US/European.
+
 <span style="color:#FFFFFF">Case Project - Everyone Codes:</span> https://everyonecodes.io/

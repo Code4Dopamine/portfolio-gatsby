@@ -133,7 +133,7 @@ const About = () => {
     'MongoDB',
     'React',
     'Cloud (AWS & Google)',
-    'Some Java & Python',
+    'Basic Java & Python',
   ];
 
   return (
