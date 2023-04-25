@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <div className='github-stats'>
-          ©2022 Edward Wu |
+          ©2023 Edward Wu |
           <a href="https://github.com/bchiang7/v4">
             <div>Design: bchiang7</div>
 

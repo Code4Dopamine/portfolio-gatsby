@@ -73,7 +73,7 @@ const Hero = () => {
         .
       </p> */}
       <p>
-        I am a multi-disciplinary Software Developer with a background in UX Research (HCI) & Int'l Business Management. I build Full Stack Web Applications for clients on the web.
+        I am a multi-disciplinary Software Developer with a background in UX Research (HCI) & International Business Management. <br></br> I build Full Stack Web Applications for clients on the web.
       </p>
     </>
   );
