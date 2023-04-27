@@ -10,6 +10,7 @@ tech:
   - SQLite
   - BHaptics(Wearable)
   - UX_Research
+  - HCI
 ---
 
 Tactile Body-Globe focuses on exploring the potential of wearable haptic technology as a new tool & method for big data analysis/display via non-visual format. The study provides a new user interface concept of data representation, and improves perception & understanding through multi-modal sensory infomration (Vision & Touch).  

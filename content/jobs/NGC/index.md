@@ -10,7 +10,7 @@ url: 'http://www.ngccems.org/work-2020#block-7292fc2e99cf4e78c37b'
 <br>
 
 - Work in virtual teams for 10 weeks as consultants to help social organizations overcome business-related problems
-- Created “Best Sales Pitch Practices” Deck w/Storyboard, Moodboard, UI/UX Design Aesthetics, etc.
-- In charge of providing Market Research and Analysis on coding schools in US/European.
+- Provided Market Analysis Report (Cost, Location, Program Curriculum) on coding schools in US/European.
+- In charge of creating UI Design & Final “Sales Pitch” Slide Deck for founder with info on project team results.
 
 <span style="color:#FFFFFF">Case Project - Everyone Codes:</span> https://everyonecodes.io/
