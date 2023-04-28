@@ -12,8 +12,10 @@ url: 'https://www.magellangps.com/'
 - Handle Software Delivery to client & customers on both Apps Store (Apple/Google) environment and troubleshoot issues.
 
 **UX Design Project** [[SmartDeviceLink(SDL)](https://smartdevicelink.com/)]:
-- Created Userflow, Wireframes and Prototype for porting existing Navigation app onto SDL Platform.
-- Worked with Product Manager reviewing upcoming UI/UX Design proposals.
+- Assigned by VP of Engineering as UX Designer in creating SDL Product demo of our Navigation Software.
+- Investigated SDL platform in-vehicle functionality & capability for integration with in-house navigation app.
+- Provided feasibility studies on SDL platform in relationship to navigation app and demo hardware.
+- Created Userflow, Wireframe, and Prototype for Engineering Team to implement into SDL platform app. 
 - [> Click here for project <](https://drive.google.com/drive/folders/1PSTvVgwpIfLu2Xmhpcvaas3-1ZUZ637e)
 
 **IT / Administrative:**

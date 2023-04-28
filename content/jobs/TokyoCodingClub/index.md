@@ -9,6 +9,6 @@ url: 'https://www.tokyocodingclub.com/'
 Tech Academy Classes for students ages 7-18.  
 <br>
 
-- Taught studnets age 7-12 Scratch / Scratch Jr, Sphero Robotic, Minecraft Education, and MakeCode Arcade.
-- Taught students 13+ Java and Python Fundamentals + AP Computer Science Prep.
+- Achieved student retention rate of 100% through revamping teaching material based on student’s age and subject.
+- Taught students Java and Python Fundamentals + AP Computer Science Prep for older students & Scratch / Scratch Jr, Sphero Robotic, Minecraft Education, and MakeCode Arcade for students ages 7-12.
 - Taught students fundamentals of CAD Design (3D Modeling) via Autodesk Fusion 360 & 3D Printing using ABS / Resin.
