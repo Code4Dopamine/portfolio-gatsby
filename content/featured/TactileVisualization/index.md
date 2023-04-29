@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Tactile Visualization (HCI Resarch)'
-cover: './Picture2.jpg'
+cover: './TactileVisualization.jpg'
 github: 'https://github.com/Code4Dopamine/Tactile-Visualization'
 external: 'https://drive.google.com/drive/folders/1Tg2t71bGcwHtnauyV3_ilBV9YsFtlHLB?usp=share_link'
 tech:
