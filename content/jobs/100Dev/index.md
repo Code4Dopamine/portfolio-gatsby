@@ -10,5 +10,5 @@ Agency - Helping clients create web applications
 <br><br>
 
 - An Client Website for selling Organic Produce <span>[[link](https://organic-produce-tainan.netlify.app/)]</span>.
-- (Coming Soon) Project Compass: Helping teachers manage and track tasks for each student.
+- Project Compass: Helping teachers manage and track tasks for each student.
 
