@@ -1,7 +1,7 @@
 ---
 date: '2022-01-01'
 title: 'Full-Stack Web Developer'
-company: '100Dev'
+company: '100Devs'
 location: 'Remote'
 range: 'Jan 2022 - Present'
 url: '#'

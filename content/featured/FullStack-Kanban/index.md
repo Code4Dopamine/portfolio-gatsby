@@ -12,4 +12,4 @@ tech:
   - MVC_Design
 ---
 
-Created a Full-Stack Kanban-like Task Tracker App that saves different task list based on user's profile. Includes crossout function and deletion of cards/single tasks.
+Created a Full-Stack Kanban-like Task Tracker App that saves different task list based on user's profile. Includes cross-out feature and deletion of cards/single tasks.
